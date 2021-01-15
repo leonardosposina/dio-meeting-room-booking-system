@@ -121,6 +121,12 @@
               "devServerTarget": "client-room:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "https://leonardosposina.github.io/dio-meeting-room-booking-system/"
+          }
         }
       }
     }
