@@ -8,6 +8,23 @@ Neste projeto foram desenvolvidos uma API com Spring Boot para gerenciar as sala
 
 ---
 
+### 📷 Screenshots
+
+![Screenshot 01](docs/screenshot01.png)
+
+![Screenshot 02](docs/screenshot02.png)
+
+![Screenshot 03](docs/screenshot03.png)
+
+![Screenshot 04](docs/screenshot04.png)
+
+![Screenshot 05](docs/screenshot05.png)
+
+![Mobile 01](docs/mobile01.png)
+![Mobile 02](docs/mobile02.png)
+
+---
+
 ### 📑 Instruções
 
 Digite o comando a seguir no diretório raiz para instalar todas as dependências do projeto:
